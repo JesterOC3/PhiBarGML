@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Animation Curves","order":9,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":10,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
+    {"name":"Particle Systems","order":11,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":3,"path":"folders/Paths.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":8,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_reg","order":1,"path":"sprites/spr_reg/spr_reg.yy",},
+    {"name":"AnimationCurve1","order":1,"path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},
+  ],
+}
